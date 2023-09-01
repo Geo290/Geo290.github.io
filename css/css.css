@@ -1,0 +1,12 @@
+.txt2{
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+.biblio{
+    font-size: 1.2rem;
+    text-align: justify;
+}
